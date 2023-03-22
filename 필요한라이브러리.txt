@@ -1,0 +1,33 @@
+https://c11.kr/1c42x
+
+백현숙 01090837981  littleconan@hanmail.net
+
+vue3
+korean
+html Boiler 
+
+
+npm install vue-router@3.4.8
+npm install bootstrap  버전 5부터 jquery 가 없어짐
+npm install axios        ajax담당 라이브러리 
+npm install vue-axios 
+	
+부모컴포넌트 
+    입력컴포넌트 
+         입력받아서 입력이 끝나면  부모컴포넌트
+    출력컴포넌트 
+         부모컴포넌트가 출력컴포넌트에 값전달 
+localhost 나 127.0.0.1 둘중하나만 가동된다. 
+@CrossOriginal("*") 
+
+@Configuration 클래스
+
+@Override addCorsMappings 함슈 오버라이딩 
+
+클라이언트 쪽에서는 거의 모든 태그에 cross-orign 속성이 새로 생겼음
+
+
+
+
+
+
